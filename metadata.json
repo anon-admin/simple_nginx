@@ -1,0 +1,20 @@
+{
+  "author": "",
+  "dependencies": [{
+			"name": "puppetlabs/stdlib",
+			"version_requirement": ">= 4.7.0"
+		},
+		{
+			"name": "trusty/docker",
+			"version_requirement": ">= 0.1.0"
+		}],
+  "license": "",
+  "name": "trusty-nginx",
+  "operatingsystem_support": [],
+  "project_page": "",
+  "requirements": [],
+  "source": "",
+  "summary": "",
+  "tags": [],
+  "version": "0.1.0"
+}
