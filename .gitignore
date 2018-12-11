@@ -1,3 +1,6 @@
+/.project
+.idea/
+/*.iml
 *.gem
 *.rbc
 /.config
